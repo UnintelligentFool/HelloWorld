@@ -9,7 +9,7 @@ namespace MyFirstApp
             String myName = "Niklas Eriksson";
 
             Console.WriteLine("Hello! My name is " + myName + ".");
-            //Console.ReadKey();
+            Console.ReadKey();
 
         }
     }
